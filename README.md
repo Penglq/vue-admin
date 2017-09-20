@@ -1,6 +1,6 @@
-# caifu-admin
+# vue-admin
 
-> A Vue.js project
+> A Vue.js project 参照潘嘉晨的项目写的vue后台
 
 ## Build Setup
 
@@ -19,4 +19,3 @@ npm run build --report
 ```
 ## UI组件 element
 [element](http://element.eleme.io/#/zh-CN/component/installation)
-# vue-admin \n参照潘嘉晨的项目写的vue后台
