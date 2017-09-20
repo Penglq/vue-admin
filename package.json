@@ -1,8 +1,8 @@
 {
-  "name": "caifu-admin",
+  "name": "vue-admin",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "LuqiangPeng <luqiangpeng@creditease.cn>",
+  "author": "彭路强",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

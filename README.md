@@ -1,6 +1,6 @@
 # vue-admin
 
-> A Vue.js project 参照https://github.com/PanJiaChen/vue-element-admin制作
+> A Vue.js project [参照](https://github.com/PanJiaChen/vue-element-admin)
 
 ## Build Setup
 
